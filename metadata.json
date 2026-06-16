@@ -1,0 +1,6 @@
+{
+  "name": "LaTeX Resume Builder",
+  "description": "An interactive, high-fidelity LaTeX Resume Builder modeled after professional software engineer resume designs. Customize, preview, and download clean, compile-ready .tex code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

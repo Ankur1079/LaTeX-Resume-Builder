@@ -1,4 +1,4 @@
-# TeX Resume Engineer
+# LaTeX Resume Builder
 
 A desktop and mobile-optimized resume builder and compiler modeled after professional LaTeX typesetting patterns. This application allows you to visually customize resume components and instantaneously exports either **clean LaTeX code (.tex)** or a **perfectly formatted, page-fitted PDF document**.
 
